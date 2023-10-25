@@ -1,3 +1,4 @@
+![Hello](hello.gif)
 - 👋 Hi, I’m @AlceaXich
 - 👀 I’m interested in Web development and software development.
 - 🌱 I’m currently learning JavaScript, bootstrap, machine learning and some challenges of FrontMentor.
