@@ -1,7 +1,7 @@
 ![Hello](hello.gif)
 
 - 👀 I’m interested in Web development and software development.
-- 🌱 I’m currently learning JavaScript, bootstrap, machine learning and some challenges of FrontMentor.
+- 🌱 I’m currently learning JavaScript, bootstrap, machine learning, some challenges of FrontMentor and a course of Introducción a desarrollo web in Desafio Latam.
 - 💞️ I’m looking to collaborate on many projects.
 - 📫 How to reach me, maybe by discord.
 
