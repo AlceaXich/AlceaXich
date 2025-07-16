@@ -1,7 +1,7 @@
 ![Hello](hello.gif)
 
 - 👀 I’m interested in Web development and software development.
-- 🌱 I’m currently learning React, next.js, SQL and challenges of FrontMentor.
+- 🌱 I’m currently learning.
 - 💞️ I’m looking to collaborate on many projects.
 - 📫 How to reach me, maybe by discord.
 
